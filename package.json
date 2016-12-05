@@ -1,10 +1,9 @@
 {
   "name": "uglify-html",
   "main": "./lib/uglify-html",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple plugin to minify html pages.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "uglify-html:Uglify Editor"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
